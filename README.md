@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Hanne Sofie Haugland
 - 👀 I’m interested in front end development
-- 🌱 I’m currently studying at University of Oslo 
+- 🌱 I’m currently studying at San Jose State University 
 - 📫 Contact: hsofiehaugland@gmail.com
 
 <!---
