@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Hanne Sofie Haugland
-- 🌱 I’m currently studying at San Jose State University 
+- 🌱 I’m currently studying at University of Oslo
 - 📫 Contact: hsofiehaugland@gmail.com
 
 <!---
