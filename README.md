@@ -1,4 +1,4 @@
-Hi, I'm Hanne Sofie Haugland and I’m currently studying at University of Oslo
+Hi, I'm Hanne Sofie Haugland and I’m currently a masters student at NTNU
 Contact: hsofiehaugland@gmail.com
 
 <!---
