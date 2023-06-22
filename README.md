@@ -1,5 +1,4 @@
-Hi, I'm Hanne Sofie Haugland and I’m currently a masters student at NTNU
-Contact: hsofiehaugland@gmail.com
+Hanne Sofie
 
 <!---
 hannehaugland/hannehaugland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
